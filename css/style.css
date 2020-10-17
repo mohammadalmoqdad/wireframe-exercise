@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300&family=Oswald&family=Source+Sans+Pro&display=swap");
+nav{
+    background-color: #444444;
+    height: 90px;
+}
+nav ul li{
+    color: #969696;
+    float: left;
+    display: inline;
+    margin-right: 50px;
+    margin-left: 50px;
+    font-size: 20px;
+    display: inline;
+    padding: 40px;
+   
+}
+.header-img{
+    margin-left: 20px;
+    float: left;
+    padding: 10px;
+}
+nav ul{
+    text-align: center;
+}
+main{
+    width: 960px;
+    margin: 0 auto;
+}
+.section1{
+    background-image: url("https://via.placeholder.com/960x450/PNG");
+    width: 960px;
+    height: 450px;
+    margin: 40px auto;
+}
+.section2 li{
+display: inline-block;
+margin: 8.5px;
+}
+.section2 ul{
+text-align: center;
+}
+.section3-img{
+    float: left;
+}
+.section3-p-button p{
+    font-family: 'Noto Sans TC', sans-serif;
+    font-style: oblique;
+    font-size:26.21932556599999999px;
+width: 450px;
+}
+.section3-p-button{
+float: right;
+margin-left: 11px;
+}
+.section3-p-button button{
+    color: #A1A1A1;
+    background-color: black;
+    width: 170px;
+    font-size: 20px;
+    padding: 7px 20px 7px 20px;
+}
+.section4:after{
+    margin: 20px;
+    content: "";
+    clear: both;
+    display: table;
+}
+footer{
+    height: 100px;
+    background-color: #444444;
+}
